@@ -19,3 +19,15 @@
 * transitions are paramount
 * Long take: Birdman
 * In transitions, the focus has to match with the last scene focus
+
+## Class 4
+* Feedback:
+    * A prototype can be done in premier for 2 weeks from now.
+    * A particle system can be built in premier that can be moved around.
+    * Define the story and teh script.
+* For next monday:
+    * Script
+    * Scene list
+* For next class
+    * Shoot
+    * 
